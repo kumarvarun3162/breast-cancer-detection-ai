@@ -1,0 +1,11 @@
+{
+  "model_arch": "efficientnet_b0",
+  "img_size": 224,
+  "best_threshold": 0.014345495961606503,
+  "val_auc": 0.7796253297713862,
+  "test_auc": 0.7625000664190565,
+  "sensitivity": 0.696969696969697,
+  "specificity": 0.7261967385586533,
+  "epochs_trained": 15,
+  "test_run": false
+}

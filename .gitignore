@@ -1,9 +1,7 @@
 images_png/
 images_processed/
 vindr_labels.csv
-models/
 venv/
 __pycache__/
 *.pth
-*.png
 *.csv
